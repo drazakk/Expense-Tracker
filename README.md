@@ -1,7 +1,5 @@
 # Expense Tracker (React)
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/drazakk/Expense-Tracker.git). It uses functional components with hooks and the context API
-
 ## Usage
 ```
 npm install
